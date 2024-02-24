@@ -47,3 +47,4 @@ Contributions to the game are welcome. Whether it's adding new features, improvi
 This project is open-sourced under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
 
 Enjoy breaking those bricks and happy learning!
+ 
